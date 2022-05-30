@@ -126,7 +126,7 @@ function generatPassoword(Upp ,Symb ,Low ,Nums ,lengths){
         barra.style.boxShadow = "0 0 10px #ffbf0077";
     }
 
-    if(finish.length >= 8 && Nums && Symb){
+    if(finish.length >= 8 && Nums && Symb && Upp && Symb){
         barra.style.width = "0%";
         barra.style.width = "100%";
         barra.style.transition = ".4s";
