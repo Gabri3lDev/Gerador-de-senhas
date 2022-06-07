@@ -51,5 +51,5 @@
 <h2>📝Licença</h2>
 
 <p>
-   Este repositório está sob licença MIT. Você pode ver o arquivo <a href="https://github.com/gabriell-c/Stars-Player-de-musica-page/blob/main/LICENSE"> LICENSE</a> para mais detalhes. 😉
+   Este repositório está sob licença MIT. Você pode ver o arquivo <a href="https://github.com/gabriell-c/gerador-de-senhas/blob/main/LICENSE"> LICENSE</a> para mais detalhes. 😉
 </p>
