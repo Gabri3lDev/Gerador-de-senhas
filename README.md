@@ -1,4 +1,6 @@
-<img  width="300px" src="padlock.png">
+<div align='center'>   
+   <img  width="300px" src="padlock.png">
+</div>
 
 ---
 
@@ -10,7 +12,7 @@
 
 <h2 >📖Sobre</h2>
 
-<p >O projeto consiste em uma opção para selecionar a quantidade de caracteres que a senha terá, opção de letras maiusculas, minusculas, numeros e simbolos, um botão para copiar a senha gerada e opção dark/light mode.</p>
+<p >O projeto consiste em uma opção para selecionar a quantidade de caracteres que a senha terá, opção de letras maiúsculas, minusculas, números e símbolos, um botão para copiar a senha gerada e opção dark/light mode.</p>
 
 ---
 
