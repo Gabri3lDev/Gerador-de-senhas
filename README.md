@@ -4,15 +4,15 @@
 
 ---
 
-<h1>🔒 Gerador de senhas</h1>
+<h1 align='center'>🔒 Gerador de senhas</h1>
 
-<h3 >✔ STATUS: Concluído ✔</h3>
+<h3 align='center'>✔ STATUS: Concluído ✔</h3>
 
 ---
 
-<h2 >📖Sobre</h2>
+<h2 align='center' >📖Sobre</h2>
 
-<p >O projeto consiste em uma opção para selecionar a quantidade de caracteres que a senha terá, opção de letras maiúsculas, minusculas, números e símbolos, um botão para copiar a senha gerada e opção dark/light mode.</p>
+<p align='center'>O projeto consiste em uma opção para selecionar a quantidade de caracteres que a senha terá, opção de letras maiúsculas, minúsculas, números e símbolos, um botão para copiar a senha gerada e opção dark/light mode.</p>
 
 ---
 
